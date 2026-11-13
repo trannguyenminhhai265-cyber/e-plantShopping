@@ -1,0 +1,21 @@
+.about-us-container {
+  max-width: 560px;
+  padding: 24px 28px;
+  border-radius: 12px;
+  background-color: rgba(0, 0, 0, 0.45);
+  color: #fff;
+  text-align: left;
+}
+
+.about-us-description {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: #b7f0a0;
+  margin: 0 0 12px;
+}
+
+.about-us-content {
+  font-size: 1rem;
+  line-height: 1.6;
+  margin: 0 0 10px;
+}
